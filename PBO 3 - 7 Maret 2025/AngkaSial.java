@@ -1,3 +1,9 @@
+/* Nama File   : AngkaSial.java
+ * Deskripsi   : Berisi program penggunaan exception buatan sendiri pengenalan clausa throw dan throws
+ * Pembuat     : Mohamad Solkhan Nawawi / 24060123120020
+ * Tanggal     : 7 Maret 2025
+*/
+
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException {
         if (angka == 13) {
@@ -6,7 +12,6 @@ public class AngkaSial {
             System.out.println(angka + " bukan angka sial");
         }
     } 
-
     public static void main(String[] args) {
         AngkaSial as = new AngkaSial();
         try {
