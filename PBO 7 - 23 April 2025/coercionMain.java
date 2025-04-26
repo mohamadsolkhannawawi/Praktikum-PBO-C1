@@ -1,9 +1,9 @@
 /* 
- * Nama File    : Student.java
+ * Nama File    : CoercionMain.java
  * Nama Pembuat : Mohamad Solkhan Nawawi
  * NIM Pembuat  : 24060123120020
  * Tanggal      : 23 April 2025
- * Deskripsi    : Student merupakan subclass dari Person berisi method yang sama dengan superclass yaitu isAsleep dengan implementasi berbeda.
+ * Deskripsi    : CoercionMain merupakan mainclass untuk membuktikan hasil dari penerapan konsep casting.
  */
 
 public class coercionMain {
